@@ -1,0 +1,14 @@
+@media (min-width: 980px) {
+    .img-my{ 
+display: none
+}}
+@media (min-width: 100px) {
+    .img-my{ 
+    border-radius: 50%;
+    width: 25vmax;
+    height: 25vmax;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom:-20px ;
+    }}
