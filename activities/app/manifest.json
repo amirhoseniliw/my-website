@@ -1,0 +1,21 @@
+{  
+  "name": "amirhoseniliw",  
+  "short_name": "amirhoseniliw",  
+  "start_url": "/",  
+  "display": "standalone",  
+  "background_color": "#FFFFFF",  
+  "theme_color": "#000000",  
+  "description": "mi name`s amirhossien imunpor",  
+  "icons": [  
+    {  
+      "src": "public/img_main/logo/icon_me.png",  
+      "sizes": "192x192",  
+      "type": "image/png"  
+    },  
+    {  
+      "src": "public/img_main/logo/icon_me.png",  
+      "sizes": "512x512",  
+      "type": "image/png"  
+    }  
+  ]  
+}
