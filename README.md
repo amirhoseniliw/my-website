@@ -16,7 +16,7 @@ To run this project, you need the following:
 - **PHP** (version 7.0 or higher)  
 - **SQL  
 ## can see 
-[link!](http://amirhoseniliw.ir)  
+## [link!](http://amirhoseniliw.ir)  
 
 </br></br>
 
@@ -35,13 +35,13 @@ Follow these steps to set up the project:
    ```
    <amirhoseniliw>/  
 │  
-├── index.php               # Home page
+├── index.php                  # Home page
 │
 ├── public/                  
    │──  style/            
-   │        └── style.css   # CSS files 
+   │        └── style.css      # CSS files 
    │ ──  js/            
-   │        └── app.js   # CSS files             
+   │        └── app.js         # CSS files             
    └── images/                 # Images  
-          └── profile.jpg         # Profile picture
+          └── profile.jpg      # Profile picture
    
